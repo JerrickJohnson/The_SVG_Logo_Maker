@@ -23,7 +23,7 @@
 
   ## Assets:
 
-  ### Link to walkthrough video for application https://drive.google.com/file/d/17NgkbvOEbGksKGXmteGpz9z204ZxN4e1/view     
+  ### Link to walkthrough video for application https://drive.google.com/file/d/1Qq-MuO444nxKQhVsoDyzCH44sDEYHlnr/view    
 
   ## Usage:
   ### Users needing to generate a Logo from the command line quickly and easily
