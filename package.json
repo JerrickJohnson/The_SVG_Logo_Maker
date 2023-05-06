@@ -23,5 +23,6 @@
   "homepage": "https://github.com/JerrickJohnson/The_SVG_Logo_Maker#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "devDependencies": {}
 }
